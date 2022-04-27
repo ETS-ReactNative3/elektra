@@ -58,7 +58,7 @@
     "uuid": "^3.4.0"
   },
   "devDependencies": {
-    "axios-mock-adapter": "1.18.2",
+    "axios-mock-adapter": "1.20.0",
     "cypress": "9.0.0",
     "enzyme": "3.11.0",
     "enzyme-adapter-react-16": "1.15.6",
